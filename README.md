@@ -12,7 +12,6 @@ The architecture of software is an area in which I have a great deal of interest
 ### Tools and Technologies
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
