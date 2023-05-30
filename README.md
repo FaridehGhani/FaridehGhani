@@ -2,7 +2,7 @@
 
 The architecture of software is an area in which I have a great deal of interest.
 
-💼 Currently working as a Backend Developer at [SnappMarket](https://snapp.market/)<br>
+💼 Currently working as a Software Engineer at [SnappMarket](https://snapp.market/)<br>
 
 ### Connect with me 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FaridehGhani)
