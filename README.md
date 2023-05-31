@@ -21,6 +21,6 @@ The architecture of software is an area in which I have a great deal of interest
 ![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
-[![Farideh Ghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridehGhani&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Farideh Ghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridehGhani&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridehGhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
