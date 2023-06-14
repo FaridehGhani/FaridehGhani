@@ -17,10 +17,4 @@ The architecture of software is an area in which I have a great deal of interest
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Elasticserach](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=Apache%20Kafka)
-![Nginx](https://img.shields.io/badge/-nginx-000000?style=flat&logo=nginx)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-
-[![Farideh Ghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaridehGhani&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridehGhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
